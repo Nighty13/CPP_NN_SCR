@@ -1,0 +1,8 @@
+﻿  NN.cpp
+c:\users\alpha\documents\visual studio 2015\projects\nncpp\nncpp\nn.cpp(74): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\nncpp\nncpp\nn.cpp(94): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\nncpp\nncpp\nn.cpp(278): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\nncpp\nncpp\nn.cpp(292): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\nncpp\nncpp\nn.cpp(324): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NNCpp.vcxproj -> C:\Users\ALPHA\documents\visual studio 2015\Projects\NNCpp\x64\Debug\NNCpp.exe
+  NNCpp.vcxproj -> C:\Users\ALPHA\documents\visual studio 2015\Projects\NNCpp\x64\Debug\NNCpp.pdb (Full PDB)
